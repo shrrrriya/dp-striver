@@ -1,0 +1,87 @@
+
+//space optimization-2d dp
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+         if (coins.empty()) return (amount == 0) ? 1 : 0;
+        vector<int> dp(amount+1,0);
+        for(int i=0;i<=amount;i++){
+            if(i%coins[0]==0) dp[i]=1;
+        }
+        for(int ind=1;ind<coins.size();ind++){
+            vector<int> temp(amount+1,0);
+            for(int tot=0;tot<=amount;tot++){
+                int nottake=dp[tot];
+                int take=0;
+                if(tot-coins[ind]>=0)take=temp[tot-coins[ind]];
+                temp[tot]=take+nottake;
+            }
+            dp=temp;
+        }
+        return dp[amount];
+    }
+};
+
+//tabulation-gives tle 
+// class Solution {
+// public:
+//     int change(int amount, vector<int>& coins) {
+//          if (coins.empty()) return (amount == 0) ? 1 : 0;
+//         vector<vector<int>> dp(coins.size(),vector<int>(amount+1,0));
+//         for(int i=0;i<=amount;i++){
+//             if(i%coins[0]==0) dp[0][i]=1;
+//         }
+//         for(int ind=1;ind<coins.size();ind++){
+//             for(int tot=0;tot<=amount;tot++){
+//                 int nottake=dp[ind-1][tot];
+//                 int take=0;
+//                 if(tot-coins[ind]>=0)take=dp[ind][tot-coins[ind]];
+//                 dp[ind][tot]=take+nottake;
+//             }
+//         }
+//         return dp[coins.size()-1][amount];
+//     }
+// };
+
+//memoization
+// class Solution {
+// public:
+//     int change(int amount, vector<int>& coins) {
+//         vector<vector<int>> dp(coins.size(),vector<int>(amount+1,-1));
+//         return func(coins.size()-1,amount,coins,dp);
+//     }
+//     int func(int ind,int amount, vector<int>& coins,vector<vector<int>>& dp){
+//         //base condition 
+//         if(amount==0) return 1;
+//         if(ind==0){
+//             if(amount%coins[0]==0) return 1; //imp
+//             else return 0;
+//         }
+//         if(amount<0)return 0;
+
+//         if(dp[ind][amount]!=-1) return dp[ind][amount];
+//         int nottake=func(ind-1,amount,coins,dp);
+//         int take=func(ind,amount-coins[ind],coins,dp);
+//         return dp[ind][amount]=take+nottake;
+//     }
+// };
+
+//recursion 
+// class Solution {
+// public:
+//     int change(int amount, vector<int>& coins) {
+//         return func(coins.size()-1,amount,coins);
+//     }
+//     int func(int ind,int amount, vector<int>& coins){
+//         //base condition 
+//         if(amount==0) return 1;
+//         if(ind==0){
+//             if(amount%coins[0]==0) return 1; //imp
+//             else return 0;
+//         }
+//         if(amount<0)return 0;
+//         int nottake=func(ind-1,amount,coins);
+//         int take=func(ind,amount-coins[ind],coins);
+//         return take+nottake;
+//     }
+// };
