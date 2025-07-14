@@ -15,6 +15,7 @@ dp questions striver
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shrrrriya/dp-striver/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ dp questions striver
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shrrrriya/dp-striver/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
