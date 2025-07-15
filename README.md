@@ -12,6 +12,7 @@ dp questions striver
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shrrrriya/dp-striver/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
@@ -30,6 +31,7 @@ dp questions striver
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shrrrriya/dp-striver/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/shrrrriya/dp-striver/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/shrrrriya/dp-striver/tree/master/1170-shortest-common-supersequence) |
