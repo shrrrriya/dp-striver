@@ -1,6 +1,5 @@
 //SPACE OPTIMIZATION-gpt
 class Solution {
-  
 public:
     int numDistinct(string s, string t) {
         int m=s.length();
