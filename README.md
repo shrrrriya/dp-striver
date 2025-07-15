@@ -33,6 +33,7 @@ dp questions striver
 | [1170-shortest-common-supersequence](https://github.com/shrrrriya/dp-striver/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shrrrriya/dp-striver/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3396-valid-word](https://github.com/shrrrriya/dp-striver/tree/master/3396-valid-word) |
 ## Greedy
 |  |
 | ------- |
