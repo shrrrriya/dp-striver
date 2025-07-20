@@ -10,21 +10,21 @@ public:
         int profit=0;
         if(buy){
             //take 
-            int profit1=-prices[ind]+dp[ind+1][0];
+            int profit1=prices[ind]+dp[ind+1][0];
             //not take
             int profit2=dp[ind+1][buy];
             profit=max(profit,max(profit1,profit2));
         }else{
             //take
-            int p1=prices[ind]+dp[ind+1][1];
+            int p1=-prices[ind]+dp[ind+1][1];
             //not take
-            int p2=dp[ind+1][buy];
+            int p2=dp[ind+1][0];
             profit=max(profit,max(p1,p2));
         }
         dp[ind][buy]=profit;
             }
         }
-        return dp[0][1];
+        return dp[0][0];
     }
 };
 
