@@ -64,4 +64,8 @@ dp questions striver
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shrrrriya/dp-striver/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
