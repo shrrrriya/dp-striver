@@ -29,6 +29,9 @@ public:
         }
        // start at day 0, not holding (buy==0), 0 buys done 
        //got stuck with te return statement
+    //    1. **It’s day 0**,  
+    //    2. **You haven’t made any transactions** yet, so `atMax = 0`,  
+    //    3. **You don’t hold a share** (you can’t magically start by holding one), so `buy = 0`.  
        return dp[0][0][0];
 
     } 
