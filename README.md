@@ -84,4 +84,16 @@ dp questions striver
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
