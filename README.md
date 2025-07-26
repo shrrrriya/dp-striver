@@ -6,6 +6,7 @@ dp questions striver
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shrrrriya/dp-striver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
@@ -99,4 +100,12 @@ dp questions striver
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
