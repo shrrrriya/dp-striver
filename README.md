@@ -11,6 +11,7 @@ dp questions striver
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shrrrriya/dp-striver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shrrrriya/dp-striver/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shrrrriya/dp-striver/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -65,11 +66,13 @@ dp questions striver
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 ## Trie
 |  |
@@ -124,4 +127,12 @@ dp questions striver
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
