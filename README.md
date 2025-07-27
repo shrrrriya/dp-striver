@@ -19,6 +19,7 @@ dp questions striver
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@ dp questions striver
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 ## Tree
 |  |
@@ -135,4 +137,8 @@ dp questions striver
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
