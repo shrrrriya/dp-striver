@@ -75,6 +75,7 @@ dp questions striver
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 ## Trie
@@ -88,6 +89,7 @@ dp questions striver
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrrrriya/dp-striver/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
 |  |
@@ -121,6 +123,7 @@ dp questions striver
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
