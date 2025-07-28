@@ -21,6 +21,7 @@ dp questions striver
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ dp questions striver
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ dp questions striver
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +144,8 @@ dp questions striver
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
