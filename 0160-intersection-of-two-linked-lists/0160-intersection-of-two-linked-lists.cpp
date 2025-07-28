@@ -16,7 +16,6 @@ public:
         }
         while(headB!=NULL){
             if(mpp[headB]==1) return headB;
-            mpp[headB]=1;
             headB=headB->next;
         }
         return NULL;
