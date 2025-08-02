@@ -20,6 +20,7 @@ dp questions striver
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -169,6 +170,7 @@ dp questions striver
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -180,4 +182,8 @@ dp questions striver
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrrrriya/dp-striver/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
