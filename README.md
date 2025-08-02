@@ -20,6 +20,7 @@ dp questions striver
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
@@ -41,6 +42,7 @@ dp questions striver
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/shrrrriya/dp-striver/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/shrrrriya/dp-striver/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shrrrriya/dp-striver/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -167,11 +169,13 @@ dp questions striver
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 ## Brainteaser
 |  |
 | ------- |
