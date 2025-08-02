@@ -8,7 +8,7 @@ public:
         vector<int> nse(n, n);
         stack<int> st;
         for(int i = n - 1; i >= 0; i--) {
-            while(!st.empty() && arr[st.top()] >= arr[i]) {
+            while(!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
             }
             if(!st.empty()) nse[i] = st.top();
@@ -19,7 +19,7 @@ public:
         vector<int> pse(n, -1);
         stack<int> st2;
         for(int i = 0; i < n; i++) {
-            while(!st2.empty() && arr[st2.top()] > arr[i]) {
+            while(!st2.empty() && arr[st2.top()] >= arr[i]) {
                 st2.pop();
             }
             if(!st2.empty()) pse[i] = st2.top();
