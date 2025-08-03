@@ -1,3 +1,4 @@
+//most optimal
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
@@ -11,8 +12,7 @@ public:
                 if(nums[l]==0) zeros--;
                 l=l+1;
             } 
-            else{
-            maxlen=max(maxlen,r-l+1);}
+            maxlen=max(maxlen,r-l+1);
             r++;
         }
         return maxlen;
@@ -29,7 +29,7 @@ public:
 //         int zeros=0;
 //         while(r<n){
 //             if(nums[r]==0) zeros++;
-//             if(zeros>k){
+//             while(zeros>k){
 //                 if(nums[l]==0) zeros--;
 //                 l=l+1;
 //             } 
