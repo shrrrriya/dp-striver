@@ -19,6 +19,7 @@ dp questions striver
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
@@ -96,6 +97,7 @@ dp questions striver
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
@@ -177,6 +179,7 @@ dp questions striver
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
