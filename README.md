@@ -54,6 +54,7 @@ dp questions striver
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +131,7 @@ dp questions striver
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,4 +206,12 @@ dp questions striver
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
