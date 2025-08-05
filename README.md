@@ -24,6 +24,7 @@ dp questions striver
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
@@ -57,6 +58,7 @@ dp questions striver
 | ------- |
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +154,7 @@ dp questions striver
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
