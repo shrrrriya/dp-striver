@@ -152,6 +152,7 @@ dp questions striver
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -176,6 +177,7 @@ dp questions striver
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -232,4 +234,8 @@ dp questions striver
 | ------- |
 | [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/shrrrriya/dp-striver/tree/master/0801-is-graph-bipartite) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
