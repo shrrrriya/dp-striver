@@ -8,37 +8,55 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- //better approach
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode*head=nullptr;
-        if(lists.empty()) return nullptr;
-        for(int i=0;i<lists.size();i++){
-            head=mergeTwoLists(head,lists[i]);
+        priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>> minh;
+        for(auto it:lists){
+            if(it!=NULL)minh.push({it->val,it});
         }
-        return head;
-    }
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode*t1=list1;
-        ListNode*t2=list2;
         ListNode*dNode=new ListNode(-1);
         ListNode*temp=dNode;
-        while(t1!=NULL && t2!=NULL){
-            if(t1->val<=t2->val){
-                temp->next=t1;
-                temp=t1;
-                t1=t1->next;
-            }
-            else{
-                temp->next=t2;
-                temp=t2;
-                t2=t2->next;
-            }
+        while(!minh.empty()){
+            temp->next=minh.top().second;
+            temp=temp->next;
+            if(minh.top().second->next!=NULL)minh.push({minh.top().second->next->val,minh.top().second->next});
+            minh.pop();
         }
-        if(t1)temp->next=t1;
-        if(t2)temp->next=t2;
         return dNode->next;
     }
 };
+
+ //better approach
+// class Solution {
+// public:
+//     ListNode* mergeKLists(vector<ListNode*>& lists) {
+//         ListNode*head=nullptr;
+//         if(lists.empty()) return nullptr;
+//         for(int i=0;i<lists.size();i++){
+//             head=mergeTwoLists(head,lists[i]);
+//         }
+//         return head;
+//     }
+//     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+//         ListNode*t1=list1;
+//         ListNode*t2=list2;
+//         ListNode*dNode=new ListNode(-1);
+//         ListNode*temp=dNode;
+//         while(t1!=NULL && t2!=NULL){
+//             if(t1->val<=t2->val){
+//                 temp->next=t1;
+//                 temp=t1;
+//                 t1=t1->next;
+//             }
+//             else{
+//                 temp->next=t2;
+//                 temp=t2;
+//                 t2=t2->next;
+//             }
+//         }
+//         if(t1)temp->next=t1;
+//         if(t2)temp->next=t2;
+//         return dNode->next;
+//     }
+// };
