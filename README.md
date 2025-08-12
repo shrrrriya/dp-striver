@@ -119,6 +119,7 @@ dp questions striver
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrrrriya/dp-striver/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
@@ -237,5 +238,6 @@ dp questions striver
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
