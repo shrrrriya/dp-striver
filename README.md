@@ -120,6 +120,7 @@ dp questions striver
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrrrriya/dp-striver/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
@@ -186,6 +187,7 @@ dp questions striver
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -240,4 +242,12 @@ dp questions striver
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
