@@ -80,6 +80,7 @@ dp questions striver
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shrrrriya/dp-striver/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shrrrriya/dp-striver/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shrrrriya/dp-striver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/shrrrriya/dp-striver/tree/master/3396-valid-word) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@ dp questions striver
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shrrrriya/dp-striver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
 ## Trie
@@ -134,6 +136,7 @@ dp questions striver
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shrrrriya/dp-striver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
