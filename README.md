@@ -159,6 +159,7 @@ dp questions striver
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shrrrriya/dp-striver/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -246,6 +247,7 @@ dp questions striver
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shrrrriya/dp-striver/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
