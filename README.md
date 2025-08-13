@@ -23,6 +23,7 @@ dp questions striver
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
@@ -86,6 +87,7 @@ dp questions striver
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/shrrrriya/dp-striver/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
 ## Sorting
@@ -93,6 +95,7 @@ dp questions striver
 | ------- |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+| [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
 ## Hash Table
@@ -104,6 +107,7 @@ dp questions striver
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
