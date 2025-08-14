@@ -26,6 +26,7 @@ dp questions striver
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
+| [1034-subarrays-with-k-different-integers](https://github.com/shrrrriya/dp-striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -110,6 +111,7 @@ dp questions striver
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/shrrrriya/dp-striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shrrrriya/dp-striver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
@@ -134,6 +136,7 @@ dp questions striver
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/shrrrriya/dp-striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shrrrriya/dp-striver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -201,6 +204,7 @@ dp questions striver
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/shrrrriya/dp-striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
