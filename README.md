@@ -170,6 +170,7 @@ dp questions striver
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shrrrriya/dp-striver/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shrrrriya/dp-striver/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -197,6 +198,7 @@ dp questions striver
 | ------- |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/shrrrriya/dp-striver/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrrrriya/dp-striver/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -260,6 +262,7 @@ dp questions striver
 | [0021-merge-two-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shrrrriya/dp-striver/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shrrrriya/dp-striver/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
