@@ -10,6 +10,7 @@ dp questions striver
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shrrrriya/dp-striver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
@@ -66,12 +67,14 @@ dp questions striver
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shrrrriya/dp-striver/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/shrrrriya/dp-striver/tree/master/0402-remove-k-digits) |
@@ -151,6 +154,7 @@ dp questions striver
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrrrriya/dp-striver/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
@@ -172,6 +176,7 @@ dp questions striver
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
