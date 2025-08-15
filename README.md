@@ -6,6 +6,7 @@ dp questions striver
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +74,7 @@ dp questions striver
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/shrrrriya/dp-striver/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
@@ -122,6 +124,7 @@ dp questions striver
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 ## Memoization
 |  |
