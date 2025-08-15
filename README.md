@@ -79,6 +79,7 @@ dp questions striver
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/shrrrriya/dp-striver/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/shrrrriya/dp-striver/tree/master/0583-delete-operation-for-two-strings) |
@@ -102,6 +103,7 @@ dp questions striver
 | ------- |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
@@ -111,6 +113,7 @@ dp questions striver
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
