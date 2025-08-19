@@ -9,6 +9,7 @@ dp questions striver
 | [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
@@ -77,6 +78,7 @@ dp questions striver
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shrrrriya/dp-striver/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shrrrriya/dp-striver/tree/master/0115-distinct-subsequences) |
@@ -103,6 +105,7 @@ dp questions striver
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
@@ -112,6 +115,7 @@ dp questions striver
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
