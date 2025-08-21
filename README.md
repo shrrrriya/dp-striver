@@ -39,6 +39,7 @@ dp questions striver
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shrrrriya/dp-striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/shrrrriya/dp-striver/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shrrrriya/dp-striver/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrrrriya/dp-striver/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
@@ -201,6 +202,7 @@ dp questions striver
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shrrrriya/dp-striver/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ dp questions striver
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shrrrriya/dp-striver/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
 | ------- |
