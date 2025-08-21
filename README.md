@@ -6,6 +6,7 @@ dp questions striver
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrrrriya/dp-striver/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shrrrriya/dp-striver/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
@@ -116,6 +117,7 @@ dp questions striver
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrrrriya/dp-striver/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
