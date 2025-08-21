@@ -41,6 +41,7 @@ dp questions striver
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shrrrriya/dp-striver/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
+| [3952-trionic-array-i](https://github.com/shrrrriya/dp-striver/tree/master/3952-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
