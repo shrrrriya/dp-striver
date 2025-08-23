@@ -20,6 +20,7 @@ dp questions striver
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shrrrriya/dp-striver/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shrrrriya/dp-striver/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shrrrriya/dp-striver/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
@@ -112,6 +113,7 @@ dp questions striver
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
@@ -124,6 +126,7 @@ dp questions striver
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +188,7 @@ dp questions striver
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shrrrriya/dp-striver/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrrrriya/dp-striver/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shrrrriya/dp-striver/tree/master/1370-count-number-of-nice-subarrays) |
@@ -207,6 +211,7 @@ dp questions striver
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/shrrrriya/dp-striver/tree/master/1046-max-consecutive-ones-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shrrrriya/dp-striver/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -214,6 +219,7 @@ dp questions striver
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shrrrriya/dp-striver/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shrrrriya/dp-striver/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
