@@ -11,6 +11,7 @@ dp questions striver
 | [0042-trapping-rain-water](https://github.com/shrrrriya/dp-striver/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
@@ -196,6 +197,7 @@ dp questions striver
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/shrrrriya/dp-striver/tree/master/1036-rotting-oranges) |
@@ -268,6 +270,7 @@ dp questions striver
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shrrrriya/dp-striver/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shrrrriya/dp-striver/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
