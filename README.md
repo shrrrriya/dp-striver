@@ -188,6 +188,7 @@ dp questions striver
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shrrrriya/dp-striver/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shrrrriya/dp-striver/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shrrrriya/dp-striver/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
