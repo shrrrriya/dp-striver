@@ -92,6 +92,7 @@ dp questions striver
 | [0402-remove-k-digits](https://github.com/shrrrriya/dp-striver/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrrrriya/dp-striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/shrrrriya/dp-striver/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/shrrrriya/dp-striver/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/shrrrriya/dp-striver/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shrrrriya/dp-striver/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shrrrriya/dp-striver/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -298,4 +299,8 @@ dp questions striver
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrrrriya/dp-striver/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shrrrriya/dp-striver/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
