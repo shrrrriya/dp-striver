@@ -17,6 +17,7 @@ dp questions striver
 | [0079-word-search](https://github.com/shrrrriya/dp-striver/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shrrrriya/dp-striver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/shrrrriya/dp-striver/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shrrrriya/dp-striver/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -124,6 +125,7 @@ dp questions striver
 | ------- |
 | [0001-two-sum](https://github.com/shrrrriya/dp-striver/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shrrrriya/dp-striver/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shrrrriya/dp-striver/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shrrrriya/dp-striver/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
@@ -278,6 +280,7 @@ dp questions striver
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shrrrriya/dp-striver/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/shrrrriya/dp-striver/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/shrrrriya/dp-striver/tree/master/0801-is-graph-bipartite) |
 ## Graph
