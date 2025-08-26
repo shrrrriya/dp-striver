@@ -311,4 +311,8 @@ dp questions striver
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shrrrriya/dp-striver/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shrrrriya/dp-striver/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
