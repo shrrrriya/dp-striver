@@ -26,6 +26,7 @@ dp questions striver
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shrrrriya/dp-striver/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shrrrriya/dp-striver/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/shrrrriya/dp-striver/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/shrrrriya/dp-striver/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shrrrriya/dp-striver/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shrrrriya/dp-striver/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ dp questions striver
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrrrriya/dp-striver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/shrrrriya/dp-striver/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/shrrrriya/dp-striver/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -117,6 +119,7 @@ dp questions striver
 | [0169-majority-element](https://github.com/shrrrriya/dp-striver/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shrrrriya/dp-striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrrrriya/dp-striver/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/shrrrriya/dp-striver/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
@@ -212,6 +215,7 @@ dp questions striver
 | [0075-sort-colors](https://github.com/shrrrriya/dp-striver/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrrrriya/dp-striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/shrrrriya/dp-striver/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/shrrrriya/dp-striver/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shrrrriya/dp-striver/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
