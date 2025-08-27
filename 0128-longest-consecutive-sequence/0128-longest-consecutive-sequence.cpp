@@ -9,10 +9,10 @@ public:
         }
         int longest=1;
         for(auto it:st){
-            if(st.find(it-1)==st.end()){
+            if(st.find(it-1)==st.end()){ //apne se chota koi hai hi nahi 
                 int cnt=1;
                 int x=it;
-                while(st.find(++x)!=st.end()){
+                while(st.find(++x)!=st.end()){ //apne se saare bado ka count lelo 
                     cnt++;
                 }
                 longest=max(longest,cnt);
