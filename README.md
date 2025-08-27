@@ -33,6 +33,7 @@ dp questions striver
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/shrrrriya/dp-striver/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/shrrrriya/dp-striver/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/shrrrriya/dp-striver/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shrrrriya/dp-striver/tree/master/0943-sum-of-subarray-minimums) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shrrrriya/dp-striver/tree/master/1034-subarrays-with-k-different-integers) |
@@ -109,6 +110,7 @@ dp questions striver
 | [0455-assign-cookies](https://github.com/shrrrriya/dp-striver/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shrrrriya/dp-striver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/shrrrriya/dp-striver/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/shrrrriya/dp-striver/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shrrrriya/dp-striver/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2689-rearranging-fruits](https://github.com/shrrrriya/dp-striver/tree/master/2689-rearranging-fruits) |
 ## Sorting
